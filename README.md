@@ -14,3 +14,6 @@ O projeto contará com o desenvolvimento de:
 - Métodos estáticos;
 - Herança de classes;
 - Decorators de validação.
+
+
+-- warmup fiap frontend
